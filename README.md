@@ -27,12 +27,11 @@ Light detected → slot marked missing
 
 ## Files
 - `clicker_shelf.ino` – main firmware
-- `schematic.png` – wiring diagram (optional)
 
-## Demo
-![Demo](clicker.gif)
+## Demo & Hardware
+| Live Detection Demo | Circuit Wiring |
+|--------------------|---------------|
+| <img src="clicker.gif" width="450"> | <img src="battery.png" width="450"> |
 
-## Hardware Setup
-![Hardware Setup](battery.png)
 
 

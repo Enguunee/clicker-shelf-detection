@@ -30,4 +30,9 @@ Light detected → slot marked missing
 - `schematic.png` – wiring diagram (optional)
 
 ## Demo
-(Add photo or GIF here)
+![Demo](clicker.gif)
+
+## Hardware Setup
+![Hardware Setup](battery.jpg)
+
+

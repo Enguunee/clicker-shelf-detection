@@ -26,7 +26,7 @@ Light detected → slot marked missing
 4. Results displayed on LCD
 
 ## Files
-- `clicker_shelf.ino` – main firmware
+- `clicker_code.ino` – main firmware
 
 ## Demo & Hardware
 | Live Detection Demo | Circuit Wiring |

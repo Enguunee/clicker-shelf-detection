@@ -33,6 +33,6 @@ Light detected → slot marked missing
 ![Demo](clicker.gif)
 
 ## Hardware Setup
-![Hardware Setup](battery.jpg)
+![Hardware Setup](battery.png)
 
 
